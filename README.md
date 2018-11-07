@@ -1,2 +1,2 @@
 # Learning_data
-for some courses and papers
+created for some courses and papers mainly
